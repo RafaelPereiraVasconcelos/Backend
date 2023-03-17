@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Insomnia",
+      "author": "Rafael"
+    },
+    {
+      "id": 3,
+      "title": "Programação Web",
+      "author": "Rafael"
+    }
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "body": "Corinthians/Brasil",
+      "postId": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
